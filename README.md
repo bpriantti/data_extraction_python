@@ -2,7 +2,7 @@
 
 __Objetivo:__   
 
-O presente repositório visa abordar de forma auto-explicativa e orientada os principais metodos de data extraction utilizando a linguagem python, sendo assim um guia para a programação na linguagem servindo também como repositório para esclarecimento de dúvidas durante o desenvolvimento.
+O presente repositório visa abordar de forma auto-explicativa e orientada os principais metodos de __data extraction__ utilizando a linguagem python, sendo assim um guia para a programação na linguagem servindo também como repositório para esclarecimento de dúvidas durante o desenvolvimento.
 
 __Autor:__  
    - Bruno Priantti.
